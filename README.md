@@ -9,3 +9,5 @@ Day 2 project: https://css-js-analog-clock.netlify.app
 Day 3 project: https://test-css-variables-and-js.netlify.app
 
 Day 6 project: https://type-ahead-js.netlify.app/
+
+Day 8 project: https://canvas-brush-js.netlify.app/
