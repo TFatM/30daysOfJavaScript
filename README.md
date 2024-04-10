@@ -12,6 +12,6 @@ Day 6 project: https://type-ahead-js.netlify.app/
 
 Day 8 project: https://canvas-brush-js.netlify.app/
 
-Day 11 project: video-player-js-project.netlify.app
+Day 11 project: https://video-player-js-project.netlify.app
 
-Day 13 project: image-slide-js.netlify.app
+Day 13 project: https://image-slide-js.netlify.app
