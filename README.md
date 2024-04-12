@@ -15,3 +15,5 @@ Day 8 project: https://canvas-brush-js.netlify.app/
 Day 11 project: https://video-player-js-project.netlify.app
 
 Day 13 project: https://image-slide-js.netlify.app
+
+day 15 project: https://local-storage-day.netlify.app/
