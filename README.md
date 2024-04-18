@@ -21,3 +21,5 @@ Day 15 project: https://local-storage-day.netlify.app/
 Day 16 project: https://shadow-mouse-js.netlify.app/
 
 Day 17 project: https://sorting-js.netlify.app/
+
+Day 20 project: https://speech-detection-js.netlify.app/
