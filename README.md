@@ -25,3 +25,5 @@ Day 17 project: https://sorting-js.netlify.app/
 Day 20 project: https://speech-detection-js.netlify.app/
 
 Day 22 project: https://follow-nav-js.netlify.app/
+
+Day 23 project: https://speech-synthesis-js.netlify.app/
