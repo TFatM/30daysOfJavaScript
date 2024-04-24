@@ -29,3 +29,5 @@ Day 22 project: https://follow-nav-js.netlify.app/
 Day 23 project: https://speech-synthesis-js.netlify.app/
 
 Day 24 project: https://sticky-nav-javascript.netlify.app/#
+
+Day 25 project: https://drag-scroll-js.netlify.app/
