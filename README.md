@@ -31,3 +31,5 @@ Day 23 project: https://speech-synthesis-js.netlify.app/
 Day 24 project: https://sticky-nav-javascript.netlify.app/#
 
 Day 25 project: https://drag-scroll-js.netlify.app/
+
+Day 29 project: https://clockout-timer-js.netlify.app/
