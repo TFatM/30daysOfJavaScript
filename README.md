@@ -36,4 +36,4 @@ Day 28 project: https://video-speed-js.netlify.app/
 
 Day 29 project: https://clockout-timer-js.netlify.app/
 
-Day 30 project: whackamole-js.netlify.app
+Day 30 project: https://whackamole-js.netlify.app
